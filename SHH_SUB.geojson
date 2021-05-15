@@ -1,0 +1,5899 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3855616,31.11121476 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"闵行区",
+    "No.":1,
+    "name":"莘庄",
+    "Year":1996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3930209,31.1209034 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"闵行区",
+    "No.":2,
+    "name":"外环路",
+    "Year":1996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4027978,31.13083023 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"闵行区",
+    "No.":3,
+    "name":"莲花路",
+    "Year":1996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4141598,31.141967 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":4,
+    "name":"锦江乐园",
+    "Year":1993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4303053,31.15408368 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":5,
+    "name":"上海南站",
+    "Year":1993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4340741,31.16849521 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":6,
+    "name":"漕宝路",
+    "Year":1993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4369962,31.18246769 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":7,
+    "name":"上海体育馆",
+    "Year":1993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4368161,31.19432018 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":8,
+    "name":"徐家汇",
+    "Year":1993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44675,31.2049887 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":9,
+    "name":"衡山路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4502166,31.21360199 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":10,
+    "name":"常熟路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4591278,31.21596312 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"徐汇区",
+    "No.":11,
+    "name":"陕西南路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4732104,31.22282144 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"黄浦区",
+    "No.":12,
+    "name":"黄陂南路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4745619,31.23277805 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"黄浦区",
+    "No.":13,
+    "name":"人民广场",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4683146,31.23859873 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"黄浦区",
+    "No.":14,
+    "name":"新闸路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4587262,31.24113482 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":15,
+    "name":"汉中路",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4575254,31.24889197 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":16,
+    "name":"上海火车站",
+    "Year":1995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4591845,31.2588637 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":17,
+    "name":"中山北路",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4554775,31.27180669 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":18,
+    "name":"延长路",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4520909,31.27959233 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":19,
+    "name":"上海马戏城",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4501265,31.29272163 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":20,
+    "name":"汶水路",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4486753,31.30668998 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":21,
+    "name":"彭浦新村",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.447047,31.31899751 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"静安区",
+    "No.":22,
+    "name":"共康路",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4415419,31.33109876 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":23,
+    "name":"通河新村",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4377264,31.33975276 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":24,
+    "name":"呼兰路",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.434097,31.35505844 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":25,
+    "name":"共富新村",
+    "Year":2004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4310483,31.36945523 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":26,
+    "name":"宝安公路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4279888,31.38120623 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":27,
+    "name":"友谊西路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4246617,31.392293 ]
+    },
+    "properties": {
+    "Line":"1",
+    "Location":"宝山区",
+    "No.":28,
+    "name":"富 锦 路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.8058171,31.15080179 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":29,
+    "name":"浦东国际机场",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7969338,31.16852226 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":30,
+    "name":"海天三路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7554457,31.19940039 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":31,
+    "name":"远东大道",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7240967,31.19280877 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":32,
+    "name":"凌空路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6980606,31.18660962 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":33,
+    "name":"川沙",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6808976,31.19662727 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":34,
+    "name":"华夏东路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6737493,31.21351546 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":35,
+    "name":"创新中路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6561918,31.21431488 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":36,
+    "name":"唐镇",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6211626,31.21086978 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":37,
+    "name":"广兰路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6019765,31.20417555 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":38,
+    "name":"金科路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5877087,31.20167617 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":39,
+    "name":"张江高科",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5575192,31.20282889 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":40,
+    "name":"龙阳路",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5509483,31.20929107 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":41,
+    "name":"世纪公园",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5448713,31.21856321 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":42,
+    "name":"上海科技馆",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5269903,31.22891984 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":43,
+    "name":"世纪大道",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5154202,31.23335064 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":44,
+    "name":"东昌路",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5023797,31.23817032 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"浦东新区",
+    "No.":45,
+    "name":"陆家嘴",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4842783,31.23799308 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"黄浦区",
+    "No.":46,
+    "name":"南京东路",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4745619,31.23277805 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"黄浦区",
+    "No.":13,
+    "name":"人民广场",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4594448,31.22802912 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"静安区",
+    "No.":47,
+    "name":"南京西路",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4476528,31.22315888 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"静安区",
+    "No.":48,
+    "name":"静安寺",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4312836,31.22020369 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":49,
+    "name":"江苏路",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4163673,31.21822887 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":50,
+    "name":"中山公园",
+    "Year":1999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4038195,31.21112641 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":51,
+    "name":"娄山关路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3870513,31.2148238 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":52,
+    "name":"威宁路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3740166,31.21644187 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":53,
+    "name":"北新泾",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3594132,31.21818972 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"长宁区",
+    "No.":54,
+    "name":"淞虹路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3261359,31.19379121 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"闵行区",
+    "No.":55,
+    "name":"虹桥2号航站楼 ",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3214749,31.19396321 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"闵行区",
+    "No.":56,
+    "name":"虹桥火车站",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2993571,31.18817965 ]
+    },
+    "properties": {
+    "Line":"2",
+    "Location":"青浦区",
+    "No.":57,
+    "name":"徐泾东",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4303053,31.15408368 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"徐汇区",
+    "No.":5,
+    "name":"上海南站",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4431085,31.15791379 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"徐汇区",
+    "No.":58,
+    "name":"石龙路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4440376,31.16984456 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"徐汇区",
+    "No.":59,
+    "name":"龙漕路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4383414,31.1766357 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"徐汇区",
+    "No.":60,
+    "name":"漕溪路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4272028,31.1863361 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"徐汇区",
+    "No.":61,
+    "name":"宜山路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4216066,31.19691457 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"长宁区",
+    "No.":62,
+    "name":"虹桥路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4170693,31.20961987 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"长宁区",
+    "No.":63,
+    "name":"延安西路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4163673,31.21822887 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"长宁区",
+    "No.":50,
+    "name":"中山公园",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4128068,31.23190043 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"普陀区",
+    "No.":64,
+    "name":"金沙江路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4179058,31.23858343 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"普陀区",
+    "No.":65,
+    "name":"曹杨路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4304401,31.24647436 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"普陀区",
+    "No.":66,
+    "name":"镇坪路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4410549,31.25458115 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"普陀区",
+    "No.":67,
+    "name":"中潭路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4556254,31.24966297 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"静安区",
+    "No.":68,
+    "name":"上海站",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4763984,31.25148975 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"静安区",
+    "No.":69,
+    "name":"宝山路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4800885,31.26000905 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"虹口区",
+    "No.":70,
+    "name":"东宝兴路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4791715,31.27138451 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"虹口区",
+    "No.":71,
+    "name":"虹口足球场",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4824562,31.28123616 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"虹口区",
+    "No.":72,
+    "name":"赤峰路",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4832117,31.28946917 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"虹口区",
+    "No.":73,
+    "name":"大柏树",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4851899,31.30557526 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"虹口区",
+    "No.":74,
+    "name":"江湾镇",
+    "Year":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4849137,31.31981456 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":75,
+    "name":"殷高西路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4915826,31.33220206 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":76,
+    "name":"长江南路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5004834,31.34520075 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":77,
+    "name":"淞发路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4987858,31.35784668 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":78,
+    "name":"张华浜",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4927407,31.37126917 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":79,
+    "name":"淞滨路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4881517,31.38135575 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":80,
+    "name":"水产路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4796546,31.39542525 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":81,
+    "name":"宝杨路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4758861,31.40413997 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":82,
+    "name":"友谊路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4612294,31.40819388 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":83,
+    "name":"铁力路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4398463,31.40788808 ]
+    },
+    "properties": {
+    "Line":"3",
+    "Location":"宝山区",
+    "No.":84,
+    "name":"江杨北路",
+    "Year":2006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4272028,31.1863361 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"徐汇区",
+    "No.":61,
+    "name":"宜山路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4369962,31.18246769 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"徐汇区",
+    "No.":7,
+    "name":"上海体育馆",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4434065,31.18550184 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"徐汇区",
+    "No.":85,
+    "name":"上海体育场",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4547199,31.1910467 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"徐汇区",
+    "No.":86,
+    "name":"东安路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4637821,31.19388454 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"徐汇区",
+    "No.":87,
+    "name":"大木桥路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4748004,31.19911724 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"黄浦区",
+    "No.":88,
+    "name":"鲁班路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4894752,31.20203815 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"黄浦区",
+    "No.":89,
+    "name":"西藏南路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4994631,31.20843615 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"黄浦区",
+    "No.":90,
+    "name":"南浦大桥",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5187967,31.20952986 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"浦东新区",
+    "No.":91,
+    "name":"塘桥",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5278407,31.21173086 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"浦东新区",
+    "No.":92,
+    "name":"蓝村路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5321924,31.2224284 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"浦东新区",
+    "No.":93,
+    "name":"浦电路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5269903,31.22891984 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"浦东新区",
+    "No.":43,
+    "name":"世纪大道",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5194805,31.23990389 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"浦东新区",
+    "No.":94,
+    "name":"浦东大道",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5173752,31.25196456 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"虹口区",
+    "No.":95,
+    "name":"杨树浦路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5128632,31.25823756 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"虹口区",
+    "No.":96,
+    "name":"大连路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5010341,31.26094725 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"虹口区",
+    "No.":97,
+    "name":"临平路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4890396,31.25921487 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"虹口区",
+    "No.":98,
+    "name":"海伦路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4763984,31.25148975 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"静安区",
+    "No.":69,
+    "name":"宝山路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4575254,31.24889197 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"静安区",
+    "No.":16,
+    "name":"上海火车站",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4410549,31.25458115 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"普陀区",
+    "No.":67,
+    "name":"中潭路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4304401,31.24647436 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"普陀区",
+    "No.":66,
+    "name":"镇坪路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4179058,31.23858343 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"普陀区",
+    "No.":65,
+    "name":"曹杨路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4128068,31.23190043 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"普陀区",
+    "No.":64,
+    "name":"金沙江路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4163673,31.21822887 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"长宁区",
+    "No.":50,
+    "name":"中山公园",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4170693,31.20961987 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"长宁区",
+    "No.":63,
+    "name":"延安西路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4216066,31.19691457 ]
+    },
+    "properties": {
+    "Line":"4",
+    "Location":"长宁区",
+    "No.":62,
+    "name":"虹桥路",
+    "Year":2005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3855616,31.11121476 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":1,
+    "name":"莘庄",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3857112,31.09829793 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":99,
+    "name":"春申路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3902769,31.08933387 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":100,
+    "name":"银都路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4015569,31.0665361 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":101,
+    "name":"颛桥",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.410017,31.04505085 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":102,
+    "name":"北桥",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4164952,31.02648345 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":103,
+    "name":"剑川路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4198859,31.01821095 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":104,
+    "name":"东川路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4100601,31.01108183 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":105,
+    "name":"金平路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3951726,31.00736727 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":106,
+    "name":"华宁路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3808234,31.00352112 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":107,
+    "name":"文井路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3698927,31.00061038 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":108,
+    "name":"闵行开发区",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5748566,31.35299056 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":109,
+    "name":"港城路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5869743,31.34773386 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":110,
+    "name":"外高桥保税区北",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5939931,31.33538512 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":111,
+    "name":"航津路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6019529,31.32171357 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":112,
+    "name":"外高桥保税区南",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5893966,31.3123891 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":113,
+    "name":"洲海路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5893747,31.30270247 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":114,
+    "name":"五洲大道",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5888734,31.2907319 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":115,
+    "name":"东靖路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.589025,31.28040924 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":116,
+    "name":"巨峰路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5880777,31.27190978 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":117,
+    "name":"五莲路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5867786,31.26348 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":118,
+    "name":"博兴路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5818705,31.25718096 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":119,
+    "name":"金桥路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.572743,31.2504195 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":120,
+    "name":"云山路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5643198,31.24536993 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":121,
+    "name":"德平路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5528091,31.23924112 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":122,
+    "name":"北洋泾路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5434926,31.23587876 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":123,
+    "name":"民生路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5346921,31.23300097 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":124,
+    "name":"源深体育中心",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5269903,31.22891984 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":43,
+    "name":"世纪大道",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5321924,31.2224284 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":93,
+    "name":"浦电路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5278407,31.21173086 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":92,
+    "name":"蓝村路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5235263,31.2030747 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":125,
+    "name":"上海儿童医学中心",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5169902,31.19306455 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":126,
+    "name":"临沂新村",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5100044,31.18568204 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":127,
+    "name":"高科西路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5114486,31.17269373 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":128,
+    "name":"东明路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5155336,31.15982348 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":129,
+    "name":"高青路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5147058,31.14982991 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":130,
+    "name":"华夏西路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5063767,31.1491539 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":131,
+    "name":"上南路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4952319,31.14872174 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":132,
+    "name":"灵岩南路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4805833,31.15356324 ]
+    },
+    "properties": {
+    "Line":"6",
+    "Location":"浦东新区",
+    "No.":133,
+    "name":"东方体育中心",
+    "Year":2011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5628017,31.21121427 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":134,
+    "name":"花木路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5575192,31.20282889 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":40,
+    "name":"龙阳路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5501086,31.19306751 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":135,
+    "name":"芳华路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5401318,31.18741214 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":136,
+    "name":"锦绣路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5253782,31.18746782 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":137,
+    "name":"杨高南路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5100044,31.18568204 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":127,
+    "name":"高科西路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5003603,31.18215627 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":138,
+    "name":"云台路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4945949,31.17853222 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":139,
+    "name":"耀华路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4860976,31.17459207 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":140,
+    "name":"长清路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4737301,31.17193704 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"浦东新区",
+    "No.":141,
+    "name":"后滩",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4568737,31.18444219 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"徐汇区",
+    "No.":142,
+    "name":"龙华中路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4547199,31.1910467 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"徐汇区",
+    "No.":86,
+    "name":"东安路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4501452,31.19921507 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"徐汇区",
+    "No.":143,
+    "name":"肇嘉浜路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4502166,31.21360199 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"徐汇区",
+    "No.":10,
+    "name":"常熟路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4476528,31.22315888 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"静安区",
+    "No.":48,
+    "name":"静安寺",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4426117,31.23380747 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"静安区",
+    "No.":144,
+    "name":"昌平路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4383441,31.24036936 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"普陀区",
+    "No.":145,
+    "name":"长寿路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4304401,31.24647436 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"普陀区",
+    "No.":66,
+    "name":"镇坪路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4218972,31.25633157 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"普陀区",
+    "No.":146,
+    "name":"岚皋路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4226003,31.26390395 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"普陀区",
+    "No.":147,
+    "name":"新村路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.423062,31.27393537 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":148,
+    "name":"大华三路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4216377,31.28497297 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":149,
+    "name":"行知路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4164733,31.29363226 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":150,
+    "name":"大场镇",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4136972,31.30374729 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":151,
+    "name":"场中路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.408531,31.31468752 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":152,
+    "name":"上大路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3987661,31.32154832 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":153,
+    "name":"南陈路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3888825,31.32054135 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":154,
+    "name":"上海大学",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3823026,31.35131182 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":155,
+    "name":"顾村公园",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3622915,31.35766 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":156,
+    "name":"刘行",
+    "Year":2011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3558277,31.36417975 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":157,
+    "name":"潘广路",
+    "Year":2011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3575143,31.38858677 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":158,
+    "name":"罗南新村",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3499029,31.40193225 ]
+    },
+    "properties": {
+    "Line":"7",
+    "Location":"宝山区",
+    "No.":159,
+    "name":"美兰湖",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.512494,31.0613754 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"闵行区",
+    "No.":160,
+    "name":"沈杜公路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5106519,31.07353012 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"闵行区",
+    "No.":161,
+    "name":"联航路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5086371,31.08425969 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"闵行区",
+    "No.":162,
+    "name":"江月路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5063374,31.096569 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"闵行区",
+    "No.":163,
+    "name":"浦江镇",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4981735,31.11910917 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"闵行区",
+    "No.":164,
+    "name":"芦恒路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4895869,31.14130474 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":165,
+    "name":"凌兆新村",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4805833,31.15356324 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":133,
+    "name":"东方体育中心",
+    "Year":2011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4937134,31.16105997 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":166,
+    "name":"杨思",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4968219,31.17097822 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":167,
+    "name":"成山路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4945949,31.17853222 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":139,
+    "name":"耀华路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4937098,31.18529726 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"浦东新区",
+    "No.":168,
+    "name":"中华艺术宫",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4894752,31.20203815 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"黄浦区",
+    "No.":89,
+    "name":"西藏南路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.482997,31.2126262 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"黄浦区",
+    "No.":169,
+    "name":"陆家浜路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.483491,31.2190502 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"黄浦区",
+    "No.":170,
+    "name":"老西门",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4793096,31.22737647 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"黄浦区",
+    "No.":171,
+    "name":"大世界",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4745619,31.23277805 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"黄浦区",
+    "No.":13,
+    "name":"人民广场",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4716148,31.24246587 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"静安区",
+    "No.":172,
+    "name":"曲阜路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4688984,31.25310875 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"静安区",
+    "No.":173,
+    "name":"中兴路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4687134,31.26347576 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"静安区",
+    "No.":174,
+    "name":"西藏北路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4791715,31.27138451 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"虹口区",
+    "No.":71,
+    "name":"虹口足球场",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.490764,31.27652161 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"虹口区",
+    "No.":175,
+    "name":"曲阳路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014451,31.27491371 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"虹口区",
+    "No.":176,
+    "name":"四平路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5096483,31.27325101 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":177,
+    "name":"鞍山新村",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5182483,31.27509701 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":178,
+    "name":"江浦路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5284024,31.27883247 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":179,
+    "name":"黄兴路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5349334,31.28836701 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":180,
+    "name":"延吉中路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5332231,31.29570933 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":181,
+    "name":"黄兴公园",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5320114,31.30495212 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":182,
+    "name":"翔殷路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5320882,31.3148497 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":183,
+    "name":"嫩江路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5320273,31.32267413 ]
+    },
+    "properties": {
+    "Line":"8",
+    "Location":"杨浦区",
+    "No.":184,
+    "name":"市光路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6827839,31.27168616 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":185,
+    "name":"曹路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6681594,31.26839236 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":186,
+    "name":"民雷路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6565871,31.26606162 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":187,
+    "name":"顾唐路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6387973,31.26332221 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":188,
+    "name":"金海路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6285357,31.26427215 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":189,
+    "name":"金吉路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6112296,31.26064825 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":190,
+    "name":"金桥",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.597839,31.25257698 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":191,
+    "name":"台儿庄路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5777495,31.24086589 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":192,
+    "name":"蓝天路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5585466,31.23151532 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":193,
+    "name":"芳甸路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5487189,31.22747633 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":194,
+    "name":"杨高中路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5269903,31.22891984 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":43,
+    "name":"世纪大道",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5163292,31.23040264 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"浦东新区",
+    "No.":195,
+    "name":"商城路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4982976,31.21701133 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"黄浦区",
+    "No.":196,
+    "name":"小南门",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48612,31.2116442 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"黄浦区",
+    "No.":197,
+    "name":"陆家浜",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4768318,31.20977316 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"黄浦区",
+    "No.":198,
+    "name":"马当路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4688764,31.20616524 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"黄浦区",
+    "No.":199,
+    "name":"打浦桥",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4608704,31.20251692 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":200,
+    "name":"嘉善路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4501452,31.19921507 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":143,
+    "name":"肇嘉浜路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4368161,31.19432018 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":8,
+    "name":"徐家汇",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4272028,31.1863361 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":61,
+    "name":"宜山路",
+    "Year":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4184958,31.17495691 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":201,
+    "name":"桂林路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3977727,31.17052667 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"徐汇区",
+    "No.":202,
+    "name":"漕河泾开发区",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3846734,31.16648958 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"闵行区",
+    "No.":203,
+    "name":"合川路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3689773,31.15820445 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"闵行区",
+    "No.":204,
+    "name":"星中路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3495158,31.15546628 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"闵行区",
+    "No.":205,
+    "name":"七宝",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3376295,31.14938336 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"闵行区",
+    "No.":206,
+    "name":"中春路",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3194955,31.13723903 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":207,
+    "name":"九亭",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2603654,31.1183245 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":208,
+    "name":"泗泾",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2297088,31.1044565 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":209,
+    "name":"佘山",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2305039,31.08447291 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":210,
+    "name":"洞泾",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2326895,31.05413179 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":211,
+    "name":"松江大学城",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2307473,31.03029664 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":212,
+    "name":"松江新城",
+    "Year":2007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2305612,31.01613309 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":213,
+    "name":"松江体育中心",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2291393,31.00108383 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":214,
+    "name":"醉白池",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2307852,30.98497924 ]
+    },
+    "properties": {
+    "Line":"9",
+    "Location":"松江区",
+    "No.":215,
+    "name":"松江南站",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5065964,31.32881374 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":216,
+    "name":"新江湾城",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5069704,31.32190174 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":217,
+    "name":"殷高东路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5080141,31.31314603 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":218,
+    "name":"三门路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5135049,31.30399176 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":219,
+    "name":"江湾体育场",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.514649,31.29808439 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":220,
+    "name":"五角场",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.510225,31.28931339 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":221,
+    "name":"国权路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5064796,31.28257536 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"杨浦区",
+    "No.":222,
+    "name":"同济大学",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5014451,31.27491371 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"虹口区",
+    "No.":176,
+    "name":"四平路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4942687,31.26853888 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"虹口区",
+    "No.":223,
+    "name":"邮电新村",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4890396,31.25921487 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"虹口区",
+    "No.":98,
+    "name":"海伦路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4842275,31.25200004 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"虹口区",
+    "No.":224,
+    "name":"四川北路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4822152,31.24434517 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"静安区",
+    "No.":225,
+    "name":"天潼路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4842783,31.23799308 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"黄浦区",
+    "No.":46,
+    "name":"南京东路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4873206,31.22826047 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"黄浦区",
+    "No.":226,
+    "name":"豫园",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.483491,31.2190502 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"黄浦区",
+    "No.":170,
+    "name":"老西门",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4751688,31.21609416 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"黄浦区",
+    "No.":227,
+    "name":"新天地",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4591278,31.21596312 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"徐汇区",
+    "No.":11,
+    "name":"陕西南路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.444336,31.2080727 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"徐汇区",
+    "No.":228,
+    "name":"上海图书馆",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4346434,31.20210453 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":229,
+    "name":"交通大学",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4216066,31.19691457 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":62,
+    "name":"虹桥路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4126398,31.19612537 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":230,
+    "name":"宋园路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4041437,31.19872417 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":231,
+    "name":"伊犁路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3918766,31.19930548 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":232,
+    "name":"水城路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3801396,31.19439154 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":233,
+    "name":"龙溪路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3683155,31.19020743 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":234,
+    "name":"上海动物园",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3469401,31.19142825 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":235,
+    "name":"虹桥1号航站楼",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3261359,31.19379121 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"闵行区",
+    "No.":55,
+    "name":"虹桥2号航站楼 ",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3214749,31.19396321 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"闵行区",
+    "No.":56,
+    "name":"虹桥火车站",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3801396,31.19439154 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"长宁区",
+    "No.":233,
+    "name":"龙溪路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3703416,31.17764082 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"闵行区",
+    "No.":236,
+    "name":"龙柏新村",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3643825,31.16976964 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"闵行区",
+    "No.":237,
+    "name":"紫藤路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3549263,31.16542845 ]
+    },
+    "properties": {
+    "Line":"10",
+    "Location":"闵行区",
+    "No.":238,
+    "name":"航中路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6680224,31.14131721 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":342,
+    "name":"迪士尼",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6173612,31.13037687 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":239,
+    "name":"康新公路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5984834,31.13818803 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":240,
+    "name":"秀沿路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5931113,31.15343091 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":241,
+    "name":"罗山路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.570688,31.15822176 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":242,
+    "name":"御桥",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5391288,31.15091596 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":244,
+    "name":"浦三路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5231464,31.14647172 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":243,
+    "name":"三林东",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.511623,31.14301226 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":341,
+    "name":"三林",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4805833,31.15356324 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"浦东新区",
+    "No.":133,
+    "name":"东方体育中心",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4597451,31.15988948 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"徐汇区",
+    "No.":245,
+    "name":"龙耀路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4584485,31.16677267 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"徐汇区",
+    "No.":246,
+    "name":"云锦路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4528911,31.1728329 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"徐汇区",
+    "No.":247,
+    "name":"龙华",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4415415,31.17924884 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"徐汇区",
+    "No.":248,
+    "name":"上海游泳馆",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4346434,31.20210453 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"长宁区",
+    "No.":229,
+    "name":"交通大学",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4368161,31.19432018 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"徐汇区",
+    "No.":8,
+    "name":"徐家汇",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4312836,31.22020369 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"长宁区",
+    "No.":49,
+    "name":"江苏路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.423568,31.23047565 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":249,
+    "name":"隆德路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4179058,31.23858343 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":65,
+    "name":"曹杨路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4111658,31.24190091 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":250,
+    "name":"枫桥路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4072632,31.25070487 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":251,
+    "name":"真如",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4009163,31.26272711 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":252,
+    "name":"上海西站",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3900418,31.2689701 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":253,
+    "name":"李子园",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3759071,31.27154853 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":254,
+    "name":"祁连山路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3648995,31.27681903 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":255,
+    "name":"武威路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3495306,31.28163018 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"普陀区",
+    "No.":256,
+    "name":"桃浦新村",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3233539,31.296992 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":257,
+    "name":"南翔",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2770417,31.31972179 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":258,
+    "name":"马陆",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2544252,31.33008496 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":259,
+    "name":"嘉定新城",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2453786,31.34536337 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":260,
+    "name":"白银路",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2279226,31.37713188 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":261,
+    "name":"嘉定西",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2374995,31.39149632 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":262,
+    "name":"嘉定北",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2544252,31.33008496 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":259,
+    "name":"嘉定新城",
+    "Year":2009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2261371,31.3318383 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":263,
+    "name":"上海赛车场",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2004215,31.29359336 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":264,
+    "name":"昌吉东路",
+    "Year":2011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1808451,31.28533888 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":265,
+    "name":"上海汽车城",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1620995,31.2884468 ]
+    },
+    "properties": {
+    "Line":"11",
+    "Location":"嘉定区",
+    "No.":266,
+    "name":"安亭",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4198859,31.01821095 ]
+    },
+    "properties": {
+    "Line":"5",
+    "Location":"闵行区",
+    "No.":104,
+    "name":"东川路",
+    "Year":2003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4234404,31.00548173 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"闵行区",
+    "No.":267,
+    "name":"江川路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4324811,30.98926572 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":268,
+    "name":"西渡",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4419816,30.96591638 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":269,
+    "name":"肖塘",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4493002,30.94186227 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":270,
+    "name":"奉浦大道",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4636298,30.93104856 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":271,
+    "name":"环城东路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4837555,30.93197887 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":272,
+    "name":"望园路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49248,30.92896977 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":273,
+    "name":"金海湖",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4961964,30.91419397 ]
+    },
+    "properties": {
+    "Line":"5.5",
+    "Location":"奉贤区",
+    "No.":274,
+    "name":"奉贤新城",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3631236,31.13186528 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"闵行区",
+    "No.":275,
+    "name":"七莘路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3801688,31.13739852 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"闵行区",
+    "No.":276,
+    "name":"虹莘路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3923776,31.14092732 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"闵行区",
+    "No.":277,
+    "name":"顾戴路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3919795,31.15568894 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"闵行区",
+    "No.":278,
+    "name":"东兰路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3973712,31.16033347 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"闵行区",
+    "No.":279,
+    "name":"虹梅路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4105632,31.16410486 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":280,
+    "name":"虹漕路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4192863,31.16687664 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":281,
+    "name":"桂林公园",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4340741,31.16849521 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":6,
+    "name":"漕宝路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4440376,31.16984456 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":59,
+    "name":"龙漕路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4528911,31.1728329 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":247,
+    "name":"龙华",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4568737,31.18444219 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":142,
+    "name":"龙华中路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4637821,31.19388454 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":87,
+    "name":"大木桥路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4608704,31.20251692 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":200,
+    "name":"嘉善路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4591278,31.21596312 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"徐汇区",
+    "No.":11,
+    "name":"陕西南路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4594448,31.22802912 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"静安区",
+    "No.":47,
+    "name":"南京西路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4587262,31.24113482 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"静安区",
+    "No.":15,
+    "name":"汉中路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4716148,31.24246587 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"静安区",
+    "No.":172,
+    "name":"曲阜路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4822152,31.24434517 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"静安区",
+    "No.":225,
+    "name":"天潼路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4982686,31.25019487 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"虹口区",
+    "No.":282,
+    "name":"国际客运中心",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5066951,31.25350425 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"虹口区",
+    "No.":283,
+    "name":"提篮桥",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5128632,31.25823756 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"虹口区",
+    "No.":96,
+    "name":"大连路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5237231,31.26446074 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"杨浦区",
+    "No.":284,
+    "name":"江浦公园",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5324456,31.26844662 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"杨浦区",
+    "No.":285,
+    "name":"宁国路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5444128,31.27511057 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"杨浦区",
+    "No.":286,
+    "name":"隆昌路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.553038,31.28001444 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"杨浦区",
+    "No.":287,
+    "name":"爱国路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5611374,31.28076929 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"杨浦区",
+    "No.":288,
+    "name":"复兴岛",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5793235,31.28252663 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":289,
+    "name":"东陆路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.589025,31.28040924 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":116,
+    "name":"巨峰路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6028729,31.28006426 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":290,
+    "name":"杨高北路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6156225,31.27976014 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":291,
+    "name":"金京路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6272076,31.28021177 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":292,
+    "name":"申江路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6387973,31.26332221 ]
+    },
+    "properties": {
+    "Line":"12",
+    "Location":"浦东新区",
+    "No.":188,
+    "name":"金海路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3195947,31.24099845 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"嘉定区",
+    "No.":293,
+    "name":"金运路",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3348731,31.24106026 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"嘉定区",
+    "No.":294,
+    "name":"金沙江西路",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3552906,31.24246578 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"嘉定区",
+    "No.":295,
+    "name":"丰庄",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3673263,31.23746561 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":296,
+    "name":"祁连山南路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3818935,31.23226365 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":297,
+    "name":"真北路",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3946693,31.23175348 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":298,
+    "name":"大渡河路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4128068,31.23190043 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":64,
+    "name":"金沙江路",
+    "Year":2012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.423568,31.23047565 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":249,
+    "name":"隆德路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4305895,31.23426955 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"静安区",
+    "No.":299,
+    "name":"武宁路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4383441,31.24036936 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":145,
+    "name":"长寿路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4447653,31.24438929 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"普陀区",
+    "No.":300,
+    "name":"江宁路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4587262,31.24113482 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"静安区",
+    "No.":15,
+    "name":"汉中路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4624996,31.23636473 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"静安区",
+    "No.":301,
+    "name":"自然博物馆",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4594448,31.22802912 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"静安区",
+    "No.":47,
+    "name":"南京西路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4641898,31.22009712 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"黄浦区",
+    "No.":302,
+    "name":"淮海中路",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4751688,31.21609416 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"黄浦区",
+    "No.":227,
+    "name":"新天地",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4768318,31.20977316 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"黄浦区",
+    "No.":198,
+    "name":"马当路",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4816804,31.1973739 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"黄浦区",
+    "No.":303,
+    "name":"世博会博物馆",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4842876,31.18281738 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":304,
+    "name":"世博大道",
+    "Year":2010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4860976,31.17459207 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":140,
+    "name":"长清路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4968219,31.17097822 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":167,
+    "name":"成山路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5114486,31.17269373 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":128,
+    "name":"东明路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5266093,31.17642379 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":305,
+    "name":"华鹏路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5403718,31.17923314 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":306,
+    "name":"下南路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5523677,31.18012998 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":307,
+    "name":"北蔡",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5576437,31.17500392 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":308,
+    "name":"陈春路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5664168,31.16899807 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":309,
+    "name":"莲溪路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5823246,31.17514612 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":310,
+    "name":"华夏中路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6020565,31.1788775 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":311,
+    "name":"中科路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6144209,31.1834628 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":312,
+    "name":"学林路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6289488,31.18920755 ]
+    },
+    "properties": {
+    "Line":"13",
+    "Location":"浦东新区",
+    "No.":313,
+    "name":"张江路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5575192,31.20282889 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":40,
+    "name":"龙阳路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5823246,31.17514612 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":310,
+    "name":"华夏中路",
+    "Year":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5931113,31.15343091 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":241,
+    "name":"罗山路",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6070206,31.10984923 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":314,
+    "name":"周浦",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6112524,31.07800226 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":315,
+    "name":"鹤沙航城",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6175346,31.05491834 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":316,
+    "name":"航头东",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6489247,31.04545606 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":317,
+    "name":"新场",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6992601,31.05036087 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":318,
+    "name":"野生动物园",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7617496,31.05373961 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":319,
+    "name":"惠南",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7938621,31.02648536 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":320,
+    "name":"惠南东",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.8506228,30.95935567 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":321,
+    "name":"书院",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.9108535,30.92348085 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":322,
+    "name":"临港大道",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.9298949,30.90697439 ]
+    },
+    "properties": {
+    "Line":"16",
+    "Location":"浦东新区",
+    "No.":323,
+    "name":"滴水湖",
+    "Year":2013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3214749,31.19396321 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"闵行区",
+    "No.":56,
+    "name":"虹桥火车站",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2931324,31.19177754 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":324,
+    "name":"诸光路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2785758,31.18657563 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":325,
+    "name":"蟠龙路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2540285,31.17831406 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":326,
+    "name":"徐盈路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2416622,31.17547474 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":327,
+    "name":"徐泾北城",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2240663,31.16400915 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":328,
+    "name":"嘉松中路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1921337,31.16114078 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":329,
+    "name":"赵巷",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1517867,31.16121071 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":330,
+    "name":"汇金路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1253577,31.15880359 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":331,
+    "name":"青浦新城",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0966999,31.16041894 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":332,
+    "name":"漕盈路",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0820541,31.13437264 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":333,
+    "name":"淀山湖大道",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0490582,31.10041767 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":334,
+    "name":"朱家角",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0196081,31.09847508 ]
+    },
+    "properties": {
+    "Line":"17",
+    "Location":"青浦区",
+    "No.":335,
+    "name":"东方绿舟",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.512494,31.0613754 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":160,
+    "name":"沈杜公路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5275197,31.0560851 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":336,
+    "name":"三鲁公路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5304428,31.04805547 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":337,
+    "name":"闵瑞路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5307218,31.04101547 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":338,
+    "name":"浦航路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5322169,31.03039181 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":339,
+    "name":"东城一路",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5246731,31.02527887 ]
+    },
+    "properties": {
+    "Line":"Pujiang",
+    "Location":"闵行区",
+    "No.":340,
+    "name":"汇臻路",
+    "Year":2018
+    }
+  }
+]
+}
