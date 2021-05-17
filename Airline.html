@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Shanghai International Airline</title>
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+ 
+ 
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+    
+h3 {
+  font-size: 9px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+
+#console {
+  position: absolute;
+  width: 350px;
+  height: 500px; 
+  margin: 30px;
+  padding: 10px 20px;
+  background-color: white;
+}
+    
+.session {
+  margin-bottom: 20px;
+}
+
+.row {
+  height: 20px;
+  width: 100%;
+  line-height: 25px;
+}
+
+
+
+
+.label {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+
+</style>
+    
+</head>
+    
+    
+    
+<body>
+    <div id="map"></div>
+    <div id='console'>
+        <h1>Development of International Airline 1973-2017</h1>
+        <p>Data: <a href='https://github.com/Qingyan-Liu/Visulization/blob/main/Destination_data.geojson'>Airlines from 1973 to 2017</a> </p>
+        
+        <h3>Description: The international airline data is divided into 2 parts: 1973-1996 from Shanghai Chronicles, 2005-2017 from China Eastern Airline. The Shanghai Chronicles provides information of Shanghai international airlines from 1946 to 1996, but the rapid development of airlines was from 1973; thus, we choose 1973 as the starting year. There is a lack information after 1996; therefore, we use China Eastern Airlines (headquarter in Shanghai) as an example to show the development of some airlines. We get the data manual and publish it to the GitHub. Year 2017 shows all Shanghai international airlines operated by China Eastern Airlines. Circles represent the arrival cities of flights from Shanghai, and it shows the city name, year of the airline, its main airport, the annual passenger in 2017 and the rank of passengers of some airports in 2017 when hover over the circles. Time slider shows the change of airlines: 0 years is 1973, and 44 years is 2017.</h3>
+        
+        
+        
+        <div class='session' id='sliderbar'>
+            <h2>Time Period: <label id='active-year'>0</label></h2>
+            <input 
+                   id='slider' 
+                   class='row' 
+                   type='range' 
+                   min='1973' 
+                   max='2017' 
+                   step='1' 
+                   value='1973' 
+                   />
+        </div>
+    </div>
+    
+    
+
+    <script>
+mapboxgl.accessToken = 
+'pk.eyJ1IjoicWluZ3lhbmxpdSIsImEiOiJja20wamlpZmcwMGtmMndtczRxMDhoa2t1In0.ebicFgTpJVTUu3M130hQAQ'; //Put your mapbox access token here
+
+// Load a new map in the 'map' HTML div
+ var map = new mapboxgl.Map({
+ container: 'map', // container id
+ style: 'mapbox://styles/qingyanliu/ckosuwgux247b18l74ca9f3rs', // Put your mapbox style ID here
+ center: [37.1625, 36.199167], // starting position [lng, lat]
+ zoom: 1.5 // starting zoom
+ });
+        
+ map.on('load', function() {
+      
+     
+     map.addLayer({
+         id: 'data',
+         type: 'circle',
+         source: {
+             type: 'geojson',
+             data: 'https://raw.githubusercontent.com/Qingyan-Liu/Visulization/main/Destination_data.geojson' 
+         },
+         'layout': {
+             'visibility': 'visible'
+         },
+         paint: {
+             'circle-color': 'brown',
+             'circle-opacity': 0.7,
+             'circle-stroke-width': {
+                 stops: [[4, 0.4]]
+        
+        
+             },
+         }
+     });
+     
+     var mypopup = new mapboxgl.Popup({offset:[1,1],closeButton: false});
+    map.on('mouseover', 'data', function(e) {
+        mypopup
+            .setLngLat(e.features[0].geometry.coordinates)
+            .setHTML('<b>Name: </b>' + e.features[0].properties.name + '<br /><b>Year: </b>' + e.features[0].properties.time + '<br /><b>Airport: </b>' + e.features[0].properties.airport + '<br /><b>2017 Annual Passenger : </b>Million ' + e.features[0].properties.passenger + '<br /><b>World Rank: </b>' + e.features[0].properties.rank)
+            .addTo(map);
+    });
+    
+    map.on('mouseenter', 'data', function(e) {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    
+    map.on('mouseleave', 'data', function(e) {
+        map.getCanvas().style.cursor = '';
+        mypopup.remove();
+    });    
+     
+ });
+        
+        
+        
+
+ map.on('load', function () {
+     
+ 
+     
+     
+     
+     map.addLayer({
+         'id': 'route',
+         'type': 'line',
+         'source': {
+             type: 'geojson',
+             data: 'https://raw.githubusercontent.com/Qingyan-Liu/Visulization/main/SH_AIRLINES.geojson' 
+         },
+         'layout': {
+             'line-join': 'round',
+             'line-cap': 'round'
+         },
+         'paint': {
+             'line-color': 'dimgray',
+             'line-width': 1
+         }
+     });
+     
+     
+
+     
+    
+     
+     document.getElementById('slider').addEventListener('input', function(e) {
+        var time = parseInt(e.target.value);
+        
+        filterTime = ['==', ['number', ['get', 'time']], time];
+        map.setFilter('route', ['all', filterTime]);
+        
+       
+        var year = time % 1973 ? time % 1973 : 0;
+            
+
+ 
+        document.getElementById('active-year').innerText = year + ' ' + 'years';
+    });
+     
+     
+ });
+
+        
+ 
+        
+        
+</script>
+</body>
+</html>
