@@ -1,0 +1,1433 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.474722,31.228611 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Shanghai",
+    "airport":"PVG",
+    "passenger":70,
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,14.6 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Manila",
+    "airport":"MNL",
+    "passenger":42.02,
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.37,22.5675 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Kolkata",
+    "airport":"CCU",
+    "passenger":18.88,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4164,37.7775 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"San Francisco",
+    "airport":"SFO",
+    "passenger":55.82,
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.52,13.75 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Bangkok",
+    "airport":"BKK",
+    "passenger":60.86,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.15,16.8 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Rangoon",
+    "airport":"RGN",
+    "passenger":5.92,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6922,35.6897 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Tokyo",
+    "airport":"HND",
+    "passenger":76.48,
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.01,24.86 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Karachi",
+    "airport":"KHI",
+    "passenger":7.27,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3514,48.8569 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Paris",
+    "airport":"CDG",
+    "passenger":69.47,
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7369,9.0272 ]
+    },
+    "properties": {
+    "time":1973,
+    "name":"Addis Ababa",
+    "airport":"ADD",
+    "passenger":12.14,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.5019,34.6936 ]
+    },
+    "properties": {
+    "time":1974,
+    "name":"Osaka",
+    "airport":"KIX",
+    "passenger":27.89,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.533333,47.383333 ]
+    },
+    "properties": {
+    "time":1975,
+    "name":"Zurich",
+    "airport":"ZRH",
+    "passenger":29.4,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4164,37.7775 ]
+    },
+    "properties": {
+    "time":1981,
+    "name":"San Francisco",
+    "airport":"SFO",
+    "passenger":55.82,
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94,40.67 ]
+    },
+    "properties": {
+    "time":1981,
+    "name":"New York City",
+    "airport":"JFK",
+    "passenger":59.39,
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6922,35.6897 ]
+    },
+    "properties": {
+    "time":1978,
+    "name":"Tokyo",
+    "airport":"HND",
+    "passenger":76.48,
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.52,13.75 ]
+    },
+    "properties": {
+    "time":1983,
+    "name":"Bangkok",
+    "airport":"BKK",
+    "passenger":60.86,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.833333,1.283333 ]
+    },
+    "properties": {
+    "time":1985,
+    "name":"Singapore",
+    "airport":"SIN",
+    "passenger":62.22,
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3867,43.6703 ]
+    },
+    "properties": {
+    "time":1986,
+    "name":"Toronto",
+    "airport":"YYZ",
+    "passenger":47.05,
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1139,49.2608 ]
+    },
+    "properties": {
+    "time":1987,
+    "name":"Vancouver",
+    "airport":"YVR",
+    "passenger":24.17,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4828,41.8931 ]
+    },
+    "properties": {
+    "time":1988,
+    "name":"Rome",
+    "airport":"FCO",
+    "passenger":40.97,
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.866667,32.783333 ]
+    },
+    "properties": {
+    "time":1988,
+    "name":"Nagasaki",
+    "airport":"NGS",
+    "passenger":3.17,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.4019,33.5903 ]
+    },
+    "properties": {
+    "time":1988,
+    "name":"Fukuoka",
+    "airport":"FUK",
+    "passenger":23.98,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.762097,61.1919 ]
+    },
+    "properties": {
+    "time":1991,
+    "name":"Anchorage",
+    "airport":"ANC",
+    "passenger":5.11,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.966667,37.566667 ]
+    },
+    "properties": {
+    "time":1991,
+    "name":"Seoul",
+    "airport":"ICN",
+    "passenger":62.16,
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.55,26.0275 ]
+    },
+    "properties": {
+    "time":1992,
+    "name":"Manama",
+    "airport":"BAH",
+    "passenger":8.48,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3517,50.8467 ]
+    },
+    "properties": {
+    "time":1992,
+    "name":"Brussels",
+    "airport":"BRU",
+    "passenger":24.78,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2,34.1 ]
+    },
+    "properties": {
+    "time":1992,
+    "name":"Los Angeles",
+    "airport":"LAX",
+    "passenger":84.56,
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9,35.183333 ]
+    },
+    "properties": {
+    "time":1993,
+    "name":"Nagoya",
+    "airport":"NGO",
+    "passenger":0.9,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3,47.6 ]
+    },
+    "properties": {
+    "time":1993,
+    "name":"Seattle",
+    "airport":"SEA",
+    "passenger":46.93,
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.716667,40.383333 ]
+    },
+    "properties": {
+    "time":1993,
+    "name":"Madrid",
+    "airport":"MAD",
+    "passenger":53.39,
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.075556,35.179444 ]
+    },
+    "properties": {
+    "time":1996,
+    "name":"Busan",
+    "airport":"PUS",
+    "passenger":17.06,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.566667,48.133333 ]
+    },
+    "properties": {
+    "time":1996,
+    "name":"Munich",
+    "airport":"MUC",
+    "passenger":44.58,
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.211111,-33.859972 ]
+    },
+    "properties": {
+    "time":1996,
+    "name":"Sydney",
+    "airport":"SYD",
+    "passenger":43.41,
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.877393,19.07599 ]
+    },
+    "properties": {
+    "time":2005,
+    "name":"Mumbai",
+    "airport":"BOM",
+    "passenger":47.2,
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.045556,-26.204444 ]
+    },
+    "properties": {
+    "time":2007,
+    "name":"Johannesburg",
+    "airport":"JNB",
+    "passenger":21.24,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.568333,55.676111 ]
+    },
+    "properties": {
+    "time":2008,
+    "name":"Copenhagen",
+    "airport":"CPH",
+    "passenger":29.18,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.001389,53.565278 ]
+    },
+    "properties": {
+    "time":2011,
+    "name":"Hamburg",
+    "airport":"HAM",
+    "passenger":17.62,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,14.6 ]
+    },
+    "properties": {
+    "time":2013,
+    "name":"Manila",
+    "airport":"MNL",
+    "passenger":42.02,
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7833,-36.85 ]
+    },
+    "properties": {
+    "time":2014,
+    "name":"Auckland",
+    "airport":"AKL",
+    "passenger":20.03,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.84513,-6.21462 ]
+    },
+    "properties": {
+    "time":2014,
+    "name":"Jakarta",
+    "airport":"CGK",
+    "passenger":63.02,
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.416667,50.083333 ]
+    },
+    "properties": {
+    "time":2016,
+    "name":"Prague",
+    "airport":"PRG",
+    "passenger":15.42,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.897,52.371 ]
+    },
+    "properties": {
+    "time":2016,
+    "name":"Amsterdam",
+    "airport":"AMS",
+    "passenger":68.52,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.716667,40.383333 ]
+    },
+    "properties": {
+    "time":2016,
+    "name":"Madrid",
+    "airport":"MAD",
+    "passenger":53.39,
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.32,59.95 ]
+    },
+    "properties": {
+    "time":2016,
+    "name":"Saint Petersburg",
+    "airport":"ULLI",
+    "passenger":16.13,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.027778,-27.467778 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Brisbane",
+    "airport":"BNE",
+    "passenger":22.95,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7758,-16.9219 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Cairns",
+    "airport":"CNS",
+    "passenger":4.94,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963056,-37.813611 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Melbourne",
+    "airport":"MEL",
+    "passenger":36,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.211111,-33.859972 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Sydney",
+    "airport":"SYD",
+    "passenger":43.41,
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.921111,11.569444 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Phnom Penh",
+    "airport":"PNH",
+    "passenger":4.24,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.859722,13.362222 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Siem Reap",
+    "airport":"REP",
+    "passenger":4.21,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3867,43.6703 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Toronto",
+    "airport":"YYZ",
+    "passenger":47.05,
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1139,49.2608 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Vancouver",
+    "airport":"YVR",
+    "passenger":24.17,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.416667,50.083333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Prague",
+    "airport":"PRG",
+    "passenger":15.42,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3514,48.8569 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Paris",
+    "airport":"CDG",
+    "passenger":69.47,
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.683333,50.116667 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Frankfurt",
+    "airport":"FRA",
+    "passenger":64.5,
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.23,28.61 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Delhi",
+    "airport":"DEL",
+    "passenger":63.45,
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.216667,-8.65 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Denpasar",
+    "airport":"DPS",
+    "passenger":21.05,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.84513,-6.21462 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Jakarta",
+    "airport":"CGK",
+    "passenger":63.02,
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4828,41.8931 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Rome",
+    "airport":"FCO",
+    "passenger":40.97,
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.4019,33.5903 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Fukuoka",
+    "airport":"FUK",
+    "passenger":23.98,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.116917,39.388611 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Hanamaki",
+    "airport":"HNA",
+    "passenger":0.4,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.45,34.383333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Hiroshima",
+    "airport":"HIJ",
+    "passenger":2.98,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.53,31.58 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Kagoshima",
+    "airport":"KOJ",
+    "passenger":5.62,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.45,36.42 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Komatsu",
+    "airport":"KMQ",
+    "passenger":1.84,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.77,33.83 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Matsuyama",
+    "airport":"MYJ",
+    "passenger":3.03,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.866667,32.783333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Nagasaki",
+    "airport":"NGS",
+    "passenger":3.17,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9,35.183333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Nagoya",
+    "airport":"NGO",
+    "passenger":0.9,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.0364,37.9161 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Niigata",
+    "airport":"KIJ",
+    "passenger":0.98,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.92,34.65 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Okayama",
+    "airport":"OKJ",
+    "passenger":1.52,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,26.5 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Okinawa",
+    "airport":"OKA",
+    "passenger":20.97,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.5019,34.6936 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Osaka",
+    "airport":"KIX",
+    "passenger":27.89,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.35,43.066667 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Sapporo",
+    "airport":"CTS",
+    "passenger":22.72,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.3825,34.9756 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Shizuoka",
+    "airport":"FSZ",
+    "passenger":0.67,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6922,35.6897 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Tokyo",
+    "airport":"HND",
+    "passenger":76.48,
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.508889,4.175278 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Malé",
+    "airport":"MLE",
+    "passenger":4.3,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.083333,21.975 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Mandalay",
+    "airport":"MDL",
+    "passenger":1.32,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.897,52.371 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Amsterdam",
+    "airport":"AMS",
+    "passenger":68.52,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7833,-36.85 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Auckland",
+    "airport":"AKL",
+    "passenger":20.03,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.763169,15.209325 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Saipan",
+    "airport":"SPN",
+    "passenger":0.15,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.9,10.3 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Cebu",
+    "airport":"CEB",
+    "passenger":10.05,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.5394,15.18493 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Clark",
+    "airport":"CRK",
+    "passenger":1.51,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,14.6 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Manila",
+    "airport":"MNL",
+    "passenger":42.02,
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6178,55.7558 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Moscow",
+    "airport":"SVO",
+    "passenger":40.09,
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.32,59.95 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Saint Petersburg",
+    "airport":"ULLI",
+    "passenger":16.13,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.833333,1.283333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Singapore",
+    "airport":"SIN",
+    "passenger":62.22,
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.075556,35.179444 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Busan",
+    "airport":"PUS",
+    "passenger":17.06,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.601389,35.871389 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Daegu",
+    "airport":"TAE",
+    "passenger":3.56,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.483333,33.516667 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Jeju",
+    "airport":"CJU",
+    "passenger":29.6,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.4714,34.9897 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Muan",
+    "airport":"MWX",
+    "passenger":0.3,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.966667,37.566667 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Seoul",
+    "airport":"ICN",
+    "passenger":62.16,
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.716667,40.383333 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Madrid",
+    "airport":"MAD",
+    "passenger":53.39,
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.83,6.92 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Colombo",
+    "airport":"CMB",
+    "passenger":9.81,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0686,59.3294 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Stockholm",
+    "airport":"ARN",
+    "passenger":26.64,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.52,13.75 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Bangkok",
+    "airport":"BKK",
+    "passenger":60.86,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.998611,18.795278 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Chiang Mai",
+    "airport":"CNX",
+    "passenger":10.23,
+    "rank":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.297222,25.263056 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Dubai",
+    "airport":"DXB",
+    "passenger":88.24,
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1275,51.5072 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"London",
+    "airport":"LHR",
+    "passenger":78.01,
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6278,41.8819 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Chicago",
+    "airport":"ORD",
+    "passenger":79.83,
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2,34.1 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Los Angeles",
+    "airport":"LAX",
+    "passenger":84.56,
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94,40.67 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"New York City",
+    "airport":"JFK",
+    "passenger":59.39,
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4164,37.7775 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"San Francisco",
+    "airport":"SFO",
+    "passenger":55.82,
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.65,10.8 ]
+    },
+    "properties": {
+    "time":2017,
+    "name":"Ho Chi Minh City",
+    "airport":"SGN",
+    "passenger":36,
+    "rank":null
+    }
+  }
+]
+}
